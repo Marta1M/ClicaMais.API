@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build"
+		},
+		{
+			"type": "dotnet",
+			"task": "watch ClicaMais.Api",
+			"file": "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\ClicaMais.Api\\ClicaMais.Api.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch ClicaMais.Api"
+		}
+	]
+}

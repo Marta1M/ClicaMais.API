@@ -1,0 +1,6 @@
+@ClicaMais.Api_HostAddress = http://localhost:5062
+
+GET {{ClicaMais.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
