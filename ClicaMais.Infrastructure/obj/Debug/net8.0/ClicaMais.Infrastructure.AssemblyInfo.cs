@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClicaMais.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d60d472d4c62b7fee40255df150773c7d163823c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0deef92ab3268629a4d81e22f0196f29966a91d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClicaMais.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClicaMais.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

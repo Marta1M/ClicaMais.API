@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\ClicaMais.Api\\ClicaMais.Api.csproj": {}
+    "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\clicaMais.Api\\ClicaMais.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\ClicaMais.Api\\ClicaMais.Api.csproj": {
+    "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\clicaMais.Api\\ClicaMais.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\ClicaMais.Api\\ClicaMais.Api.csproj",
+        "projectUniqueName": "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\clicaMais.Api\\ClicaMais.Api.csproj",
         "projectName": "ClicaMais.Api",
-        "projectPath": "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\ClicaMais.Api\\ClicaMais.Api.csproj",
+        "projectPath": "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\clicaMais.Api\\ClicaMais.Api.csproj",
         "packagesPath": "C:\\Users\\u059626\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\ClicaMais.Api\\obj\\",
+        "outputPath": "C:\\Users\\u059626\\source\\repos\\ClicaMais\\backend\\clicaMais.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\u059626\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.317/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -168,7 +168,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.317/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -234,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.317/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -323,7 +323,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.317/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

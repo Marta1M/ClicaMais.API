@@ -1,0 +1,13 @@
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\bin\Release\net8.0\ClicaMais.Domain.deps.json
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\bin\Release\net8.0\ClicaMais.Domain.dll
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\bin\Release\net8.0\ClicaMais.Domain.pdb
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.csproj.AssemblyReference.cache
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.AssemblyInfoInputs.cache
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.AssemblyInfo.cs
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.csproj.CoreCompileInputs.cache
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.sourcelink.json
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.dll
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\refint\ClicaMais.Domain.dll
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ClicaMais.Domain.pdb
+C:\Users\u059626\source\repos\ClicaMais\backend\ClicaMais.Domain\obj\Release\net8.0\ref\ClicaMais.Domain.dll
